@@ -1,2 +1,2 @@
-# dead-voice.github.io
+# demo.github.io
 Мой первый опубликованный сайт
